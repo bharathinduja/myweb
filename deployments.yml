@@ -18,4 +18,4 @@ spec:
       - name: myweb
         image: bhinduja/mywebk8s:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 8282
